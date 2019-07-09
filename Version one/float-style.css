@@ -1,0 +1,7 @@
+.container {
+	overflow : auto;
+}
+
+aside, main, footer {
+  float: left;
+}
